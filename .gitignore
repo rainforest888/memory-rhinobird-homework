@@ -146,3 +146,4 @@ vite.config.ts.timestamp-*
 rendelin/week3/3-full-pipeline/memory-data/
 rendelin/week3/3-full-pipeline/results/gateway.log
 rendelin/week3/3-full-pipeline/results/soak.log
+.DS_Store
